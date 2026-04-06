@@ -4,7 +4,9 @@
 
 <div align="center">
 
-https://github.com/whdoldol1231-sketch/whdoldol1231-scketch/issues/1#issue-4210053288
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/cf14ceb4-9836-4a46-ad60-847a6dc18124" width="600">
+</div>
 
 </div>
 
