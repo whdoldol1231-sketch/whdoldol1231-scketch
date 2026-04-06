@@ -25,6 +25,12 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="25"> **프로젝트 개요** 스케치 기반 AI 레퍼런스 매칭 서비스 기획 중!
 
 
+https://github.com/whdoldol1231-sketch/myFirstRepo
+
+  1. gksk
+  2. 둘
+
+
 ---
 
 ### 💌 Contact & Social
