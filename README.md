@@ -5,12 +5,7 @@
 <div align="center">
   <img src="이미지주소" width="400">
   
-  <br>
-  
-  ![Illustrator](https://img.shields.io/badge/Illustrator-aspirant-FFD1DC?style=for-the-badge)
-  ![Japanese](https://img.shields.io/badge/Language-Japanese-E0BBE4?style=for-the-badge)
-</div>
-
+ 
 ---
 
 ### 🚀 진행 중인 프로젝트: Sketch-Link
