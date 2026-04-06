@@ -3,8 +3,7 @@
 # 🎨 안녕! 나는 아라(Ara)라고 해.
 
 <div align="center">
-  <img src="이미지주소" width="400">
-  
+
  
 ---
 
