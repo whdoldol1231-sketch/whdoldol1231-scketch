@@ -27,8 +27,10 @@
 
 https://github.com/whdoldol1231-sketch/myFirstRepo
 
-  1. gksk
-  2. 둘
+   1. 하나
+   2. 둘
+   3. 셋
+   4. 넷
 
 
 ---
