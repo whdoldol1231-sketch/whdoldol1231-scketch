@@ -4,6 +4,9 @@
 
 <div align="center">
 
+<div align="center">
+  <img src="https://github.com/whdoldol1231-sketch/whdoldol1231-scketch/issues/1#issue-4210053288" width="600">
+</div>
 
  
 ---
